@@ -9,8 +9,7 @@ function App() {
 
   return (
     <div>
-      {/* <Question2/> */}
-      <Question1/>
+      <Question2/>
     </div>
   );
 }
